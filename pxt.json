@@ -1,0 +1,24 @@
+{
+    "name": "EmakefunMatrixKeyboard",
+    "version": "1.0.0",
+    "description": "MakeCode Extension for Emakefun Matrix Keyboard",
+    "dependencies": {
+        "core": "*",
+        "EmakefunI2cDevice": "github:emakefun-makecode-extensions/emakefun_i2c_device#v1.0.4"
+    },
+    "files": [
+        "README.md",
+        "main.blocks",
+        "matrix_keyboard.ts",
+        "_locales/zh/EmakefunMatrixKeyboard-jsdoc-strings.json",
+        "_locales/zh/EmakefunMatrixKeyboard-strings.json"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": true,
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}

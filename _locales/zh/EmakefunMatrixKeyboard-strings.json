@@ -1,0 +1,7 @@
+{
+  "Emakefun.MatrixKeyboard.isClicked|block": "$this 按键 $key 被按下",
+  "Emakefun.createMatrixKeyboard|block": "创建矩阵键盘模块|I2C地址 = $i2c_address",
+  "Emakefun|block": "Emakefun",
+  "{id:category}Emakefun": "Emakefun",
+  "{id:subcategory}MatrixKeyboard": "矩阵键盘模块"
+}
