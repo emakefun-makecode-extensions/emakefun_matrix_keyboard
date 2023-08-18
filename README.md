@@ -28,7 +28,7 @@ TODO
 
 ## Example
 
-You can copy the code from below or view the project (blocks and JavaScript view) [here]().
+You can copy the code from below or view the project (blocks and JavaScript view) [here](https://makecode.microbit.org/_FTb8kWJowdWx).
 
 ```blocks
 let matrix_keyboard = Emakefun.createMatrixKeyboard(0x50)
